@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,22,23,50&height=180&section=header&text=Harshita%20Nayan&fontSize=50&animation=twinkling&fontColor=F2B807" />
+</p>
 <h1 align="center">
   Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> I'm Harshita Nayan
 </h1>
