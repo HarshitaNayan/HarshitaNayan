@@ -15,10 +15,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=F2B807&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+cool+projects...;Always+learning+something+new." />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshitaNayan&label=Profile+Views&color=blueviolet&style=flat-square" />
-</p>
-
 ---
 
 ## 🚀 Featured Project
