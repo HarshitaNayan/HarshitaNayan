@@ -46,6 +46,7 @@ An AI-powered mock interview platform that conducts automated candidate assessme
 * 📊 Comprehensive feedback and performance analytics
 * 🎯 Role-specific and custom question sets
 * ⚡ Instant candidate scoring and reports
+* ⚡ **[Try the Live Demo](https://intervue-ai-85b1.onrender.com)**
 ---
 
 ## 🛠️ Tech Stack
