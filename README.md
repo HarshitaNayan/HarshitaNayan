@@ -35,6 +35,17 @@ A browser-based AI exam proctoring system with real-time monitoring.
 
 👉 **[Try the Live Demo](https://harshitanayan.github.io/Panopticon-AI/)**
 
+### 🎙️ Intervue AI
+
+An AI-powered mock interview platform that conducts automated candidate assessments with real-time feedback.
+
+#### ✨ Highlights
+
+* 🤖 Interactive AI interviewer with dynamic question generation
+* 🔊 Voice-to-text transcription and response evaluation
+* 📊 Comprehensive feedback and performance analytics
+* 🎯 Role-specific and custom question sets
+* ⚡ Instant candidate scoring and reports
 ---
 
 ## 🛠️ Tech Stack
