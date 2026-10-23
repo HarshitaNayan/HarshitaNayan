@@ -56,10 +56,11 @@ I build AI-powered applications for learning, interview practice, and practical 
   <img src="https://streak-stats.demolab.com/?user=HarshitaNayan&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak: current streak, longest streak, and total contributions" />
 </p>
 
+
 ### Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitaNayan&theme=github-dark&hide_border=true&area=true" alt="Recent GitHub contribution activity graph" width="100%" />
+  <img src="https://ghchart.rshah.org/HarshitaNayan" alt="Harshita Nayan's contribution calendar" width="100%" />
 </p>
 
 ## Connect
