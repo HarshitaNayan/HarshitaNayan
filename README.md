@@ -36,7 +36,7 @@ I build AI-powered applications for learning, interview practice, and practical 
 
 ## Projects
 
-| Project | What it does | Highlights | Repository |
+|Pinned Projects | What it does | Highlights | Repository |
 | --- | --- | --- | --- |
 | **Hynex** | Invoqe AI chatbot — an AI learning assistant. | Conversational learning · AI assistance | [View code](https://github.com/HarshitaNayan/Invoqe_AIChatbot) |
 | **Panopticon AI** | Browser-based AI exam proctoring with gaze, lip movement, phone, and tab-switch monitoring. | In-browser processing · Session PDF reports | [View code](https://github.com/HarshitaNayan/Panopticon-AI) |
