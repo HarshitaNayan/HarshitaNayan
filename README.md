@@ -1,101 +1,68 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16,22,23,50&height=180&section=header&text=Harshita%20Nayan&fontSize=50&animation=twinkling&fontColor=F2B807" />
-</p>
-<h1 align="center">
-  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> I'm Harshita Nayan
-</h1>
+<img align="right" src="assets/avatar.png" alt="Harshita Nayan's illustrated avatar" width="210" />
 
-<p align="center">
-  💻 Building things that are fun to create and useful to use.<br>
-  🌱 Learning something new every day.<br>
-  ☕ Powered by curiosity (and caffeine).
-</p>
+# Hi, I'm Harshita Nayan 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=F2B807&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+cool+projects...;Always+learning+something+new." />
-</p>
+### Building useful ideas with AI and code.
+
+I build AI-powered applications for learning, interview practice, and practical problem-solving. I enjoy turning an idea into an interactive experience and exploring how intelligent tools can make everyday tasks easier.
+
+**Interests:** Artificial Intelligence · Machine Learning · Web Development
+
+<br clear="all" />
 
 ---
 
-## 🚀 Featured Project
-
-### 🔍 [Panopticon AI](https://harshitanayan.github.io/Panopticon-AI/)
-A browser-based AI exam proctoring system with real-time monitoring.
-
-<!-- PRO TIP: Add a 500px wide GIF or screenshot of the app here if you have one! -->
-<!-- <p align="center"><img src="your-project-screenshot.gif" width="500px" alt="Panopticon AI Demo" /></p> -->
-
-✨ **Highlights**
-- 👀 Face & gaze tracking
-- 🎤 Talking detection
-- 📱 Electronic device detection
-- 👥 Multiple face detection
-- 📄 Automatic PDF session reports
-- ⚡ Runs directly in the browser
-
-👉 **[Try the Live Demo](https://harshitanayan.github.io/Panopticon-AI/)**
-
-### 🎙️ Intervue AI
-
-An AI-powered mock interview platform that conducts automated candidate assessments with real-time feedback.
-
-#### ✨ Highlights
-
-* 🤖 Interactive AI interviewer with dynamic question generation
-* 🔊 Voice-to-text transcription and response evaluation
-* 📊 Comprehensive feedback and performance analytics
-* 🎯 Role-specific and custom question sets
-* ⚡ Instant candidate scoring and reports
-* ⚡ **[Try the Live Demo](https://intervue-ai-85b1.onrender.com)**
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
+  <img src="assets/tech-orbit.gif" alt="Animated solar system featuring my 15 technologies" width="100%" />
 </p>
 
----
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
+## Projects
 
-## 📊 GitHub Stats
+| Project | What it does | Highlights | Repository |
+| --- | --- | --- | --- |
+| **Hynex** | Invoqe AI chatbot — an AI learning assistant. | Conversational learning · AI assistance | [View code](https://github.com/HarshitaNayan/Invoqe_AIChatbot) |
+| **Panopticon AI** | Browser-based AI exam proctoring with gaze, lip movement, phone, and tab-switch monitoring. | In-browser processing · Session PDF reports | [View code](https://github.com/HarshitaNayan/Panopticon-AI) |
+| **SkillForge** | A hackathon platform connecting skill-based team formation with evidence-backed submissions and auditable judging. | Team formation · Claims and evidence · Normalized rankings | [View code](https://github.com/HarshitaNayan/SkillForge) |
+| **InterVue AI** | An adaptive AI simulator for practicing technical interviews. | Voice interviews · Adaptive follow-ups · Resume personalization · Performance reports | [View code](https://github.com/HarshitaNayan/Intervue-AI) |
+
+## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HarshitaNayan&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HarshitaNayan&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshitaNayan&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitaNayan&show_icons=true&theme=github_dark&hide_border=true" alt="Harshita Nayan GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaNayan&layout=compact&theme=github_dark&hide_border=true" alt="Most used repository languages" height="165" />
 </p>
 
-
----
-
-## 🌟 A Few Things About Me
-
-- 💡 I enjoy turning ideas into projects.
-- 🔍 I like exploring how things work under the hood.
-- 🎯 Always trying to learn by building.
-- ✨ Every project teaches me something new.
-
----
+### Contribution Streak
 
 <p align="center">
-  Thanks for visiting! ⭐<br>
-  If you like my work, feel free to explore my repositories.
+  <img src="https://streak-stats.demolab.com/?user=HarshitaNayan&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak: current streak, longest streak, and total contributions" />
 </p>
 
-<!--
-**HarshitaNayan/HarshitaNayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contribution Activity
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitaNayan&theme=github-dark&hide_border=true&area=true" alt="Recent GitHub contribution activity graph" width="100%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshita%20Nayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-n-87b404407/)
+
