@@ -1,4 +1,4 @@
-<img align="right" src="assets/avatar.png" alt="Harshita Nayan's illustrated avatar" width="210" />
+<img align="right" src="avatar.png" alt="Harshita Nayan's illustrated avatar" width="210" />
 
 # Hi, I'm Harshita Nayan 👋
 
@@ -15,7 +15,7 @@ I build AI-powered applications for learning, interview practice, and practical 
 ## Tech Stack
 
 <p align="center">
-  <img src="assets/tech-orbit.gif" alt="Animated solar system featuring my 15 technologies" width="100%" />
+  <img src="tech-orbit.gif" alt="Animated solar system featuring my 15 technologies" width="100%" />
 </p>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
