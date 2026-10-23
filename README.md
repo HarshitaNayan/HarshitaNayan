@@ -57,13 +57,7 @@ I build AI-powered applications for learning, interview practice, and practical 
 </p>
 
 
-### Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/HarshitaNayan" alt="Harshita Nayan's contribution calendar" width="100%" />
-</p>
-
-## Connect
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshita%20Nayan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshita-n-87b404407/)
 
